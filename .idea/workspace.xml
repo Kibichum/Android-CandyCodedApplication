@@ -216,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602188665019</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="task 2">
+      <created>1602189679048</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602189679048</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -229,34 +236,34 @@
       <screen x="0" y="0" width="1360" height="768" />
     </state>
     <state x="485" y="93" key="#com.intellij.ide.util.MemberChooser/0.0.1360.768@0.0.1360.768" timestamp="1601982490427" />
-    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1602188649431">
+    <state x="252" y="0" key="CommitChangelistDialog2" timestamp="1602189671778">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1360.768@0.0.1360.768" timestamp="1602188649431" />
-    <state width="1317" height="192" key="GridCell.Tab.0.bottom" timestamp="1602189261232">
+    <state x="252" y="0" key="CommitChangelistDialog2/0.0.1360.768@0.0.1360.768" timestamp="1602189671778" />
+    <state width="812" height="192" key="GridCell.Tab.0.bottom" timestamp="1602190307213">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state width="1317" height="192" key="GridCell.Tab.0.bottom/0.0.1360.768@0.0.1360.768" timestamp="1602189261232" />
-    <state width="1317" height="192" key="GridCell.Tab.0.center" timestamp="1602189261232">
+    <state width="812" height="192" key="GridCell.Tab.0.bottom/0.0.1360.768@0.0.1360.768" timestamp="1602190307213" />
+    <state width="812" height="192" key="GridCell.Tab.0.center" timestamp="1602190307213">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state width="1317" height="192" key="GridCell.Tab.0.center/0.0.1360.768@0.0.1360.768" timestamp="1602189261232" />
-    <state width="1317" height="192" key="GridCell.Tab.0.left" timestamp="1602189261232">
+    <state width="812" height="192" key="GridCell.Tab.0.center/0.0.1360.768@0.0.1360.768" timestamp="1602190307213" />
+    <state width="812" height="192" key="GridCell.Tab.0.left" timestamp="1602190307213">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state width="1317" height="192" key="GridCell.Tab.0.left/0.0.1360.768@0.0.1360.768" timestamp="1602189261232" />
-    <state width="1317" height="192" key="GridCell.Tab.0.right" timestamp="1602189261232">
+    <state width="812" height="192" key="GridCell.Tab.0.left/0.0.1360.768@0.0.1360.768" timestamp="1602190307213" />
+    <state width="812" height="192" key="GridCell.Tab.0.right" timestamp="1602190307213">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state width="1317" height="192" key="GridCell.Tab.0.right/0.0.1360.768@0.0.1360.768" timestamp="1602189261232" />
+    <state width="812" height="192" key="GridCell.Tab.0.right/0.0.1360.768@0.0.1360.768" timestamp="1602190307213" />
     <state x="181" y="26" key="SettingsEditor" timestamp="1601984889708">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
     <state x="181" y="26" key="SettingsEditor/0.0.1360.768@0.0.1360.768" timestamp="1601984889708" />
-    <state x="272" y="117" key="Vcs.Push.Dialog.v2" timestamp="1602189648624">
+    <state x="272" y="117" key="Vcs.Push.Dialog.v2" timestamp="1602189702295">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state x="272" y="117" key="Vcs.Push.Dialog.v2/0.0.1360.768@0.0.1360.768" timestamp="1602189648624" />
+    <state x="272" y="117" key="Vcs.Push.Dialog.v2/0.0.1360.768@0.0.1360.768" timestamp="1602189702295" />
     <state x="375" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1602186934133">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
